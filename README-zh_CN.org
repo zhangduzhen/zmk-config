@@ -32,10 +32,10 @@
 - 它们都有修饰键 =CTRL=, =OPTION (ALT)=, =COMMAND (WINDOWS)=, 和无名指, 中指, 食指的字母共用一个键, 按住触发修饰键, 点击触发字母
 
 #+caption: 默认层
-[[file:images/default-layer.png]]
+[[file:images_latest/default_layer.png]]
 
 #+caption: windows层
-[[file:images/windows-layer.png]]
+[[file:images_latest/windows_layer.png]]
 
 *** 数字和移动
 
@@ -45,7 +45,7 @@
   - =&bootloader= :: 右手键盘进入刷机模式, 你就可以复制固件到键盘了
 
 #+caption: right layer
-[[file:images/right-layer.png]]
+[[file:images_latest/right_layer.png]]
 
 *** 标点符号
 
@@ -57,7 +57,7 @@
   - =5= :: 进入鼠标层
 
 #+caption: left layer
-[[file:images/left-layer.png]]
+[[file:images_latest/left_layer.png]]
 
 *** 功能键
 
@@ -79,7 +79,7 @@
 - =MB4= 对应鼠标的后退键, =MB5= 对应鼠标的前进键
 
 #+caption: mouse layer
-[[file:images/mouse-layer.png]]
+[[file:images_latest/mouse.png]]
 
 * 参考
 
